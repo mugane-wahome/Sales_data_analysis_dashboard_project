@@ -19,4 +19,5 @@ In this project, you will dive into a large sales dataset to extract valuable in
 • HOUR
 
 # Final Dashboard
-![image](https://github.com/HarshaVardhan024/Sales_data_analysis_dashboard_project/assets/149884159/ae062f41-465f-4855-8f0a-601dd0cc3778)
+
+![sales page 1](https://github.com/mugane-wahome/mugane-wahome-Sales_data_analysis_dashboard_project/assets/145966011/40b5c519-6977-42b4-8cc9-6a0491a22f1a)
