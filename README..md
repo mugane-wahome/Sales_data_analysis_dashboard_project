@@ -21,4 +21,4 @@ In this project, you will dive into a large sales dataset to extract valuable in
 # Final Dashboard
 
 ![sales page 1](https://github.com/mugane-wahome/mugane-wahome-Sales_data_analysis_dashboard_project/assets/145966011/40b5c519-6977-42b4-8cc9-6a0491a22f1a)
-![sales page 1](https://github.com/mugane-wahome/mugane-wahome-Sales_data_analysis_dashboard_project/assets/145966011/4f71a1c7-b2c8-41da-bd7d-f2abb3c46a4c)
+
